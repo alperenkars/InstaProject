@@ -64,24 +64,44 @@ This is the test class in which there are several users created manually and a l
 References
 
 java - Add scroll into text area - Stack Overflow
+
 ScrollPaneLayout - Java Swing - Example - StackHowTo
+
 Java AWT | GridBagLayout Class - GeeksforGeeks
+
 Format Specifiers in Java - GeeksforGeeks
+
 A Visual Guide to Layout Managers (The Java™ Tutorials > Creating a GUI With Swing > Laying Out Components Within a Container) (oracle.com)
+
 Trail: Creating a GUI With Swing (The Java™ Tutorials) (oracle.com)
+
 Java JScrollPane - javatpoint
+
 JScrollPane (Java Platform SE 7 ) (oracle.com)
+
 JFileChooser (Java Platform SE 7 ) (oracle.com)
+
 BufferedImage (Java Platform SE 7 ) (oracle.com)
+
 Java BufferedImage Class (tutorialspoint.com)
+
 How to Use Combo Boxes (The Java™ Tutorials > Creating a GUI With Swing > Using Swing Components) (oracle.com)
+
 How to Write an Action Listener (The Java™ Tutorials > Creating a GUI With Swing > Writing Event Listeners) (oracle.com)
+
 Introduction to Event Listeners (The Java™ Tutorials > Creating a GUI With Swing > Writing Event Listeners) (oracle.com)
+
 java - How to add an image to a JPanel? - Stack Overflow
+
 Java Layout Manager - javatpoint
+
 Java AWT | BorderLayout Class - GeeksforGeeks
+
 How to Make Dialogs (The Java™ Tutorials > Creating a GUI With Swing > Using Swing Components) (oracle.com)
+
 Arrays in Java - GeeksforGeeks
+
 Java - Exceptions (tutorialspoint.com)
+
 Exception (Java Platform SE 7 ) (oracle.com)
 
